@@ -1,0 +1,7 @@
+name = "My Website"
+page = "https://sassy-thursday-f37.notion.site/Pharmaverse-21f6c8a49f0080bb8b37f0a12e9595c4?source=copy_link"
+output = "./dist"
+
+[site]
+custom_domain = ""
+pretty_urls = true
